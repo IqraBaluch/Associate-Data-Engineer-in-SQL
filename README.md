@@ -7,5 +7,8 @@ Switching gears, you'll go on to discover database design principles such as sta
 
 Conclude by learning about data warehouse technologies and familiarizing with Snowflake, a popular cloud technology for data engineering!
 
-Find LESSON 1 details HERE
+### LESSON 1: 
 [01- Databases INTRODUCTION TO SQL](https://medium.com/@iqraanwar/01-databases-introduction-to-sql-5dd7d8413a3f)
+
+### LESSON 2:
+[02-Introducing Queries](https://medium.com/@iqraanwar/02-introducing-queries-b8e8bf608e1c)
