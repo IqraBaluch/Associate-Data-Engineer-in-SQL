@@ -12,3 +12,5 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 
 ### LESSON 2:
 [02-Introducing Queries](https://medium.com/@iqraanwar/02-introducing-queries-b8e8bf608e1c)
+
+### LESSON 3:
