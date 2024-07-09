@@ -17,5 +17,5 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 [03- Intermediate SQL](https://medium.com/@iqraanwar/03-intermediate-sql-54d5cd231139)
 
 ### LESSON 4:
-
+[04- Filtering Records](https://medium.com/@iqraanwar/4-filtering-records-aa7da12e3884)
 
