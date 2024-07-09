@@ -11,10 +11,11 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 [01- Databases INTRODUCTION TO SQL](https://medium.com/@iqraanwar/01-databases-introduction-to-sql-5dd7d8413a3f)
 
 ### LESSON 2:
-[02-Introducing Queries](https://medium.com/@iqraanwar/02-introducing-queries-b8e8bf608e1c)
+[02- Introducing Queries](https://medium.com/@iqraanwar/02-introducing-queries-b8e8bf608e1c)
 
 ### LESSON 3:
-[Intermediate SQL](https://medium.com/@iqraanwar/03-intermediate-sql-54d5cd231139)
+[03- Intermediate SQL](https://medium.com/@iqraanwar/03-intermediate-sql-54d5cd231139)
 
 ### LESSON 4:
+
 
