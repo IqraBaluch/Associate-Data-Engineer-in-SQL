@@ -19,3 +19,6 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 ### LESSON 4:
 [04- Filtering Records](https://medium.com/@iqraanwar/4-filtering-records-aa7da12e3884)
 
+### LESSON 5:
+[5- Aggregate Functions](https://medium.com/@iqraanwar/5-aggregate-functions-8539e5b74a2d)
+
