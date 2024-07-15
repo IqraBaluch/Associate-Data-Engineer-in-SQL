@@ -25,5 +25,6 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 ### LESSON 6:
 <br>
 Congratulations on making it this far! We’ll now learn how to sort and group results to gain further insight.
-<br>
+</br>
+
 [6- Sorting Results](https://medium.com/@iqraanwar/6-sorting-results-a0e8c773719b)
