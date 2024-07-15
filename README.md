@@ -23,3 +23,4 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 [5- Aggregate Functions](https://medium.com/@iqraanwar/5-aggregate-functions-8539e5b74a2d)
 
 ### LESSON 6:
+[6- Sorting Results](https://medium.com/@iqraanwar/6-sorting-results-a0e8c773719b)
