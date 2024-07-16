@@ -30,4 +30,4 @@ Congratulations on making it this far! We’ll now learn how to sort and group r
 
 ### LESSON 7:
 
-[]()
+[7- Joining Data in SQL]()
