@@ -31,3 +31,6 @@ Congratulations on making it this far! We’ll now learn how to sort and group r
 ### LESSON 7:
 
 [7- Joining Data in SQL](https://medium.com/@iqraanwar/07-joining-data-in-sql-1fd668e3dc8f)
+
+### LESSON 8:
+
