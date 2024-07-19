@@ -35,3 +35,7 @@ Congratulations on making it this far! We’ll now learn how to sort and group r
 ### LESSON 8:
 
 [8- Outer Joins, Cross Joins and Self Joins](https://medium.com/@iqraanwar/08-outer-joins-cross-joins-and-self-joins-790926108c08)
+
+### LESSON 9
+
+[9- Set Theory for SQL Joins]()
