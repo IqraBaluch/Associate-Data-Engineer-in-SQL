@@ -39,3 +39,7 @@ Congratulations on making it this far! We’ll now learn how to sort and group r
 ### LESSON 9
 
 [9- Set Theory for SQL Joins](https://medium.com/@iqraanwar/09-set-theory-for-sql-joins-ac199f4aa335)
+
+### LESSON 10
+
+[10- Subqueries]()
