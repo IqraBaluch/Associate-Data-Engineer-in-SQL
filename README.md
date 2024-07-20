@@ -42,4 +42,4 @@ Congratulations on making it this far! We’ll now learn how to sort and group r
 
 ### LESSON 10
 
-[10- Subqueries]()
+[10- Subqueries](https://medium.com/@iqraanwar/10-subqueries-aa0f8310ce38)
