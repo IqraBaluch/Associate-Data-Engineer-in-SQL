@@ -8,6 +8,12 @@ Switching gears, you'll go on to discover database design principles such as sta
 Conclude by learning about data warehouse technologies and familiarizing with Snowflake, a popular cloud technology for data engineering!
 
 ### LESSON 1: 
+
+#### GOALS of Lesson 1
+1. Understand databases and their structures
+2. Will discuss how databases and the data they store are structured
+3. Extract information from databases using SQL
+
 [01- Databases INTRODUCTION TO SQL](https://medium.com/@iqraanwar/01-databases-introduction-to-sql-5dd7d8413a3f)
 
 ### LESSON 2:
