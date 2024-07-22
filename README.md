@@ -11,12 +11,17 @@ Conclude by learning about data warehouse technologies and familiarizing with Sn
 
 #### GOALS of Lesson 1
 1. Understand databases and their structures
-2. Will discuss how databases and the data they store are structured
+2. Will see how databases and the data they store are structured
 3. Extract information from databases using SQL
 
 [01- Databases INTRODUCTION TO SQL](https://medium.com/@iqraanwar/01-databases-introduction-to-sql-5dd7d8413a3f)
 
 ### LESSON 2:
+
+#### Goals of Lesson 2
+1. Using SQL to answer questions both within and across relational database tables
+2. How SQL Is Best for Large Data
+   
 [02- Introducing Queries](https://medium.com/@iqraanwar/02-introducing-queries-b8e8bf608e1c)
 
 ### LESSON 3:
